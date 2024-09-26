@@ -12,7 +12,7 @@ function HomePage() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Babyquip
+          Babyquip dev
         </a>
       </header>
     </div>
