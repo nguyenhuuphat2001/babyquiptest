@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.babyquip.app.dev",
+      "sha256_cert_fingerprints": [
+        "E9:BE:6B:38:78:18:A6:21:22:E0:EA:A6:E8:81:04:56:D0:A1:0B:77:E1:58:D8:00:AE:03:F9:0A:50:A0:29:93"
+      ]
+    }
+  }
+]
